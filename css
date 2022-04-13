@@ -1,0 +1,12 @@
+
+.countdown { text-align: center; background-color: rgb(191, 248, 255); width: 500; height: 500; padding: 15px; }
+.countdown p {font-size: 250px; color: rgb(255, 0, 111); font-family: 'Vujahday Script', cursive;}
+
+body{ overflow: hidden;}
+.info {font-size: 25px; font-family: 'EB Garamond', serif; padding-left: 60px; margin: 0 auto; margin-bottom: 100px; width: 500px; }
+.tiles{padding-top:0px ; justify-content: center; border: 1px black;  width: 500px; display: flex; margin: 0 auto; }
+.tiles .tile { background-color: rgb(255, 0, 136); border: 1px black;  width: 100px; height: 100px; }
+
+.info .time {color: tomato; font-size: 25px; padding-left: 30px; font-family: 'EB Garamond', serif;}
+.counter {padding-top:0px ; justify-content: center; border: 1px black;  width: 500px; display: flex; margin: 0 auto; }
+.counter tr {background-color: black; border: 1px black; width: 10px;height: 10px;}
